@@ -20,24 +20,24 @@ const Hero = () => {
   const slideData = [
     {
       id: 0,
-      img: "/banner-1.jpg",
+      img: "/laptop-1.jpg",
       title: "Trending Item",
-      mainTitle: "WOMEN'S LATEST FASHION SALE",
-      price: "$20",
+      mainTitle: "Gen-Z Laptop",
+      price: "$200",
     },
     {
       id: 1,
-      img: "/banner-2.jpg",
+      img: "/laptop-1.jpg",
       title: "Trending Accessories",
-      mainTitle: "MODERN SUNGLASSES",
-      price: "$15",
+      mainTitle: "Gamers laptop",
+      price: "$150",
     },
     {
       id: 2,
-      img: "/banner-3.jpg",
+      img: "/laptop-1.jpg",
       title: "Sale Offer",
-      mainTitle: "NEW FASHION SUMMER SALE",
-      price: "$30",
+      mainTitle: "FBI;) Laptop",
+      price: "$300",
     },
   ];
 

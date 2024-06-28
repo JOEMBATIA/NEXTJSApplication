@@ -5,53 +5,32 @@ const NewProducts = () => {
 
     const products = [
         {
-            img: '/jacket-1.jpg',
-            title: 'jacket',
-            desc: 'MEN Yarn fleece zip jacket',
-            rating: 1,
+            img: '/laptop.jpg',
+            title: ' Gen-Z Laptop',
+            desc: 'lets you express yourself through art, music, writing, and more, making it the perfect tool for artists, writers, and musicians.',
+            rating: 3,
             price: "45.00"
         },
         {
-            img: '/jacket-2.jpg',
-            title: 'jacket',
-            desc: 'MEN Yarn fleece zip jacket',
-            rating: 2,
+            img: '/laptop-1.jpg',
+            title: 'Birdy Laptop',
+            desc: 'The self-contained device that combines all into one sleek and portable unit, making it the ultimate companion for productivity and entertainment',
+            rating: 5,
             price: "55.00"
         },
         {
-            img: '/shirt-1.jpg',
-            title: 'shirt',
-            desc: 'Linen shirt',
+            img: '/laptop.jpg',
+            title: 'Gamers laptop',
+            desc: 'The liberating device that lets you work, learn, and play from anywhere giving you the freedom to be wherever your creativity and curiosity takes you',
             rating: 3,
             price: "25.0"
         },
         {
-            img: '/sports-1.jpg',
-            title: 'shirt',
-            desc: 'Sport boot',
+            img: '/laptop-1.jpg',
+            title: 'FBI;) Laptop',
+            desc: 'The versatile tool that can handle multiple tasks simultaneously, from typing documents to streaming music, making it the perfect companion for busy lives.',
             rating: 4,
             price: "45.0"
-        },
-        {
-            img: '/skirt-1.jpg',
-            title: 'shirt',
-            desc: 'Cheerleader skirt',
-            rating: 5,
-            price: "15.0"
-        },
-        {
-            img: '/watch-1.jpg',
-            title: 'watch',
-            desc: 'watch',
-            rating: 5,
-            price: "15.0"
-        },
-        {
-            img: '/watch-2.jpg',
-            title: 'watch',
-            desc: 'watch',
-            rating: 5,
-            price: "35.0"
         }
     ]
 
