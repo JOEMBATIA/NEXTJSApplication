@@ -7,30 +7,30 @@ const NewProducts = () => {
         {
             img: '/laptop.jpg',
             title: ' Gen-Z Laptop',
-            desc: 'lets you express yourself through art, music, writing, and more, making it the perfect tool for artists, writers, and musicians.',
+            desc: 'lets you express yourself through art, music, writing, and more.',
             rating: 3,
-            price: "45.00"
+            price: "450.00"
         },
         {
-            img: '/laptop-1.jpg',
+            img: '/laptop.jpg',
             title: 'Birdy Laptop',
-            desc: 'The self-contained device that combines all into one sleek and portable unit, making it the ultimate companion for productivity and entertainment',
+            desc: 'The self-contained device that combines all into one sleek and portable unit.',
             rating: 5,
-            price: "55.00"
+            price: "550.00"
         },
         {
             img: '/laptop.jpg',
             title: 'Gamers laptop',
-            desc: 'The liberating device that lets you work, learn, and play from anywhere giving you the freedom to be wherever your creativity and curiosity takes you',
+            desc: 'The liberating device that lets you work, learn, and play from anywhere.',
             rating: 3,
-            price: "25.0"
+            price: "250.0"
         },
         {
-            img: '/laptop-1.jpg',
-            title: 'FBI;) Laptop',
-            desc: 'The versatile tool that can handle multiple tasks simultaneously, from typing documents to streaming music, making it the perfect companion for busy lives.',
+            img: '/laptop.jpg',
+            title: 'FBI Laptop',
+            desc: 'The versatile tool that can handle multiple tasks simultaneously.',
             rating: 4,
-            price: "45.0"
+            price: "450.0"
         }
     ]
 

@@ -32,7 +32,7 @@ const Testimonial = () => {
                         </div>
                     </div>
 
-                    <div className="bg-red-600 bg-[url(/sale.png)] bg-cover h-[500px] rounded-2xl grid place-items-center">
+                    <div className="bg-red-600 bg-[url(/laptop-1.jpg)] bg-cover h-[500px] rounded-2xl grid place-items-center">
                         <div className="bg-[#ffffffab] min-w-[270px] sm:min-w-[300px] md:min-w-[500px] rounded-xl py-8 sm:px-8 px-2 grid place-items-center gap-3">
                             <button className="bg-blackish text-white p-2 rounded-md">
                                 50% DISCOUNT
@@ -41,7 +41,7 @@ const Testimonial = () => {
                                 Summer Collection
                             </h2>
                             <p className="text-gray-500 text-[20px]">
-                                Starting @ $20 <strong>Shop Now</strong>
+                                Starting @ $50 <strong>Shop Now</strong>
                             </p>
                         </div>
                     </div>

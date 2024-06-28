@@ -20,30 +20,30 @@ const Hero = () => {
   const slideData = [
     {
       id: 0,
-      img: "/laptop-1.jpg",
-      title: "Trending Item",
+      img: "/laptop-3.png",
+      title: "Latest Offer",
       mainTitle: "Gen-Z Laptop",
       price: "$200",
     },
     {
       id: 1,
-      img: "/laptop-1.jpg",
-      title: "Trending Accessories",
+      img: "/laptop-3.png",
+      title: "Trending Power",
       mainTitle: "Gamers laptop",
       price: "$150",
     },
     {
       id: 2,
-      img: "/laptop-1.jpg",
-      title: "Sale Offer",
-      mainTitle: "FBI;) Laptop",
+      img: "/laptop-3.png",
+      title: "Craziest Offer",
+      mainTitle: "FBI Laptop",
       price: "$300",
     },
   ];
 
   return (
     <div>
-      <div className="container pt-6 lg:pt-0">
+      <div className="container pt-6 lg:pt-0 custom-slider-container">
         <Slider {...settings}>
           {slideData.map((item) => {
             return (

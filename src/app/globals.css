@@ -34,4 +34,17 @@
   .navbar__link:hover::after {
     scale: 1;
   }
+
+  .custom-slider-container {
+    height:600px; /* Set the height to your desired value */
+    overflow: hidden; /* Ensure any overflowing content is hidden */
+    align-items: center;
+  }
+  
+  .custom-slider-container .slide img {
+    height: 100%;
+    width: auto;
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
+  }
+  
 }
